@@ -11,6 +11,38 @@ Spirit Airlines (NK)
 United Airlines (UA)
 Virgin America (VX)
 
+    carrier                  carrier_name
+0           AA        American Airlines Inc.
+87          AS          Alaska Airlines Inc.
+133         B6               JetBlue Airways
+155         CO    Continental Air Lines Inc.
+238         DH       Atlantic Coast Airlines
+321         DL          Delta Air Lines Inc.
+424         EV   Atlantic Southeast Airlines
+523         FL   AirTran Airways Corporation
+562         HP    America West Airlines Inc.
+615         MQ  American Eagle Airlines Inc.
+709         NW       Northwest Airlines Inc.
+818         OO         SkyWest Airlines Inc.
+916         RU      ExpressJet Airlines Inc.
+1022        TZ        ATA Airlines d/b/a ATA
+1050        UA         United Air Lines Inc.
+1128        US               US Airways Inc.
+1189        WN        Southwest Airlines Co.
+6790        HA        Hawaiian Airlines Inc.
+9603        OH                   Comair Inc.
+21519       DH              Independence Air
+31571       F9        Frontier Airlines Inc.
+43870       YV            Mesa Airlines Inc.
+47058       AQ           Aloha Airlines Inc.
+52812       XE      ExpressJet Airlines Inc.
+60582       9E        Pinnacle Airlines Inc.
+150219      EV      ExpressJet Airlines Inc.
+150951      VX                Virgin America
+173657      9E             Endeavor Air Inc.
+184468      MQ                     Envoy Air
+195081      NK              Spirit Air Lines
+
 Air Carrier: The cause of the cancellation or delay was due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.).
 Extreme Weather: Significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane.
 National Aviation System (NAS): Delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control.
@@ -33,3 +65,8 @@ What questions do you have about the data?
 What relationships do you notice?
 What do you think is the main takeaway from this visualization?
 Is there something you don’t understand in the graphic?
+
+
+Story:
+- how num of flights by carriers have changed through the years
+- air carrier by carriers have changed through the years
